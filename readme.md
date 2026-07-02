@@ -6,7 +6,7 @@ script. Pure Python, no third-party packages needed to run (Python 3.7+).
 
 ## Graphical app (recommended)
 
-Run `dist/Datei-Verschieber.exe` (double-click). Pick a source folder, a
+Run `Datei-Verschieber.exe` (download from release or in dist folder) (double-click). Pick a source folder, a
 destination folder, enter one or more extensions (e.g. `pdf jpg png`), and hit
 **Preview** or **Start**.
 
